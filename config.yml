@@ -53,8 +53,8 @@ params:
     profileMode:
           enabled: true
           title: Zhouzhou He
-          subtitle: "I am a PhD student."
-          imageUrl: "picture.jpeg"
+          subtitle: "Hello!"
+          imageUrl: "profile_pic.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
