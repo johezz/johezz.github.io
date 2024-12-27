@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Zhouzhou (Jo) He
-          subtitle: "Hi! I'm a PhD student at Columbia University. I'm interested in close relationships and emotion regulation."
+          subtitle: "Hi! I'm a psychologist interested in close relationships and emotion regulation."
           imageUrl: "profile_pic.jpg"
           imageWidth: 160
           imageHeight: 160
