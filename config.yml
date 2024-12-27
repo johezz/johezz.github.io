@@ -1,5 +1,5 @@
 baseURL: "https://johezz.github.io" 
-title: Zhouzhou He
+title: Zhouzhou (Jo) He
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -28,7 +28,7 @@ menu:
 
 params:
     description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    author: Zhouzhou (Jo) He
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -52,48 +52,23 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Zhouzhou He
-          subtitle: "Hello!"
+          title: Zhouzhou (Jo) He
+          subtitle: "Hi! I'm a PhD student at Columbia University. I'm interested in close relationships and emotion regulation."
           imageUrl: "profile_pic.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: about me
+            - name: research
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
           url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
 
     assets:
         disableScrollBarStyle: true
@@ -101,7 +76,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Zhouzhou (Jo) He"
       icon: favicon.ico
       iconHeight: 18
 
