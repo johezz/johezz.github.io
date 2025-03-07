@@ -6,10 +6,10 @@ about:
   links:
       - text: LinkedIn
         href: https://www.linkedin.com/in/johezhouzhou/
-      - text: GitHub
-        href: https://github.com/johezz
+        icon: linkedin
       - text: Email
         href: mailto:zh2473@columbia.edu
+        icon: envelope
 ---
 
 Hi I'm a budding psychologist!
