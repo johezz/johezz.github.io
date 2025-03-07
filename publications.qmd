@@ -2,8 +2,16 @@
 title: "publications"
 ---
 
-Digiovanni, A.\*, He, Z.\*, Ochsner, K. (under review). An integrative framework for studying social regulation of emotion.
+# 2025
 
-He, Z., Vannucci, A., Meyer, M., Tottenham, N. (under review). Potential for the Medial Prefrontal Cortex to link Mentalizing and Attachment Knowledge.
+Digiovanni, A.\*, **He, Z.**\*, Ochsner, K. (under review). An integrative framework for studying social regulation of emotion.
 
-He, Z., Cohen, N., Shu, J., Bo, K., Wager, T., & Ochsner, K. (under review). Comparing the Neural Bases of Self- and Social-Reappraisal. <https://doi.org/10.31234/osf.io/xbhc4_v1>
+**He, Z.**, Vannucci, A., Meyer, M., Tottenham, N. (under review). Potential for the Medial Prefrontal Cortex to link Mentalizing and Attachment Knowledge.
+
+# 2024
+
+**He, Z.**, Cohen, N., Shu, J., Bo, K., Wager, T., & Ochsner, K. (under review). Comparing the Neural Bases of Self- and Social-Reappraisal. <https://doi.org/10.31234/osf.io/xbhc4_v1>
+
+# 2023
+
+Sahi, R. S., **He, Z.**, Silvers, J. A., & Eisenberger, N. I. (2023). One size does not fit all: Decomposing the implementation and differential benefits of social emotion regulation strategies. *Emotion*, *23*(6), 1522. [https://doi.org/10.1037/emo0001194](https://psycnet.apa.org/doi/10.1037/emo0001194)
