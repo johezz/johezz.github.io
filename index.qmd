@@ -1,11 +1,15 @@
 ---
-title: "johezz.github.io"
+#title: "Zhouzhou (Jo) He"
+image: picture1.jpg
+about: 
+  template: trestles
+  links:
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/johezhouzhou/
+      - text: GitHub
+        href: https://github.com/johezz
+      - text: Email
+        href: mailto:zh2473@columbia.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hi I'm a budding psychologist!
