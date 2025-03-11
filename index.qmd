@@ -12,4 +12,6 @@ about:
         icon: envelope
 ---
 
-Hi I'm a budding psychologist!
+Hi!
+
+This website is currently under construction 🛠️
