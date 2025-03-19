@@ -1,17 +1,19 @@
 ---
 #title: "Zhouzhou (Jo) He"
-image: picture1.jpg
-about: 
+image: profilepic.jpg
+about:
   template: trestles
-  links:
-      - text: LinkedIn
-        href: https://www.linkedin.com/in/johezhouzhou/
-        icon: linkedin
-      - text: Email
-        href: mailto:zh2473@columbia.edu
-        icon: envelope
+  # links:
+  #     - text: LinkedIn
+  #       href: https://www.linkedin.com/in/johezhouzhou/
+  #       icon: linkedin
+  #     - text: Email
+  #       href: mailto:zh2473@columbia.edu
+  #       icon: envelope
 ---
 
 Hi!
 
-This website is currently under construction 🛠️
+This website is currently under construction 🛠️. Head over to the [About](https://johezz.github.io/about.html) page and [Publications](https://johezz.github.io/publications.html) page for more up-to-date information.
+
+Thanks for stopping by! :)
