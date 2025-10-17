@@ -1,6 +1,6 @@
 ---
 #title: "Zhouzhou (Jo) He"
-image: profilepic.jpg
+image: profilepic_1.jpg
 about:
   template: trestles
   # links:
