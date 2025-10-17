@@ -2,17 +2,17 @@
 title: "publications"
 ---
 
-# In prep
+# in prep
 
-**He, Z.**, Bolger, N., Ochsner, K. (in prep) Regulator Beliefs about Social Regulation. ([scale](RBSR_Scale.pdf))
+**He, Z.**, Bolger, N., Ochsner, K. (in prep) What we believe about supporting others in distress: Implications for providing regulatory support and well-being. ([scale](RBSR_Scale.pdf))
 
 Digiovanni, A.\*, **He, Z.**\*, Ochsner, K. (under review). An integrative framework for studying social regulation of emotion.
 
 # 2025
 
-**He, Z.**, Vannucci, A., Meyer, M., Tottenham, N. (2025). Potential for the Medial Prefrontal Cortex to link Mentalizing and Attachment Knowledge.
+**He, Z.**, Vannucci, A., Meyer, M., Tottenham, N. (2025). Potential for the medial prefrontal cortex to link mentalizing and attachment schemas. [PDF](attach_mentalize.pdf)
 
-**He, Z.**, Cohen, N., Shu, J., Bo, K., Wager, T., & Ochsner, K. (2025). Comparing the Neural Bases of Self- and Social-Reappraisal. <https://doi.org/10.31234/osf.io/xbhc4_v1>
+**He, Z.**, Cohen, N., Shu, J., Bo, K., Wager, T., & Ochsner, K. (2025). Comparing the neural bases of self- and social-reappraisal, *Cerebral Cortex*, Volume 35, Issue 8 [PDF](He_et_al_2025.pdf)
 
 # 2023
 

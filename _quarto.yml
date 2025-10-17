@@ -8,8 +8,6 @@ website:
     right: 
       - href: index.qmd
         text: home
-      - href: about.qmd
-        text: about
       - publications.qmd
       - href: CV_Mar25.pdf
         text: CV

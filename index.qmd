@@ -14,6 +14,8 @@ about:
 
 Hi!
 
-This website is currently under construction 🛠️. Head over to the [About](https://johezz.github.io/about.html) page and [Publications](https://johezz.github.io/publications.html) page for more up-to-date information.
+I am a psychologist and neuroscientist interested in the social nature of emotion regulation.
 
-Thanks for stopping by! :)
+Currently, I am working with [Dr. Kevin Ochsner](https://www.ochsnerscanlab.org/) and [Dr. Niall Bolger](https://columbiacoupleslab.weebly.com/) at Columbia University.
+
+This website is a work in progress. Please feel free to reach out!
