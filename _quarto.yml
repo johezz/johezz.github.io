@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: home
       - publications.qmd
-      - href: CV_Mar25.pdf
+      - href: CV_Sep25.pdf
         text: CV
       - href: mailto:zh2473@columbia.edu
         icon: envelope
